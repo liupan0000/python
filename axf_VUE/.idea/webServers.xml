@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="05bbf992-fc8d-4acc-a6f5-c216acbcb23c" name="Server" url="http://39.105.64.213">
+        <fileTransfer host="39.105.64.213" port="22" rootFolder="/var/www/axf_vue" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

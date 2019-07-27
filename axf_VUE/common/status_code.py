@@ -1,0 +1,5 @@
+
+
+NOT_LOGIN = 900
+
+NOT_SELECT = 901
